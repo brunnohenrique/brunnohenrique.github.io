@@ -9,6 +9,7 @@ version: 2
 name: Brunno Henrique de Souza
 title: Senior software engineer
 email: brunnohenrique.ti@gmail.com
+phone: +55 (62) 99951-9395
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,7 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Ruby on rails</mark> back-end, <mark>Postgres</mark>, <mark>Heroku</mark>, <mark>Linux Server</mark>, <mark>Javascript</mark>, <mark>RESTFULL API</mark> and <mark>GraphQL</mark>.
 
   Birth date: 13/10/1988
-  Cell phone: +55 (62)9.9951-9395
 
 content:
   - title: Experience # Title for the section
@@ -68,7 +68,9 @@ content:
         caption: April 2013 - February 2015
         description: | # this will include new lines to allow paragraphs
             I led the team rebuilding an old software using ruby on rails, postgres and hosted at AWS. In this moment I was a IT manager and manager project.
+
             I analised the whole software and distribute the tasks among the devs, looking for the bests solutions.
+
             knowledge used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>Postgresl</mark>, <mark>Ruby on Rails</mark>.
 
       - layout: left
@@ -78,8 +80,10 @@ content:
         sub_title: Cofounder - Software engineer
         caption: July 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          I had worked in a project in ruby on rails, hosted at Digital Ocean. It's a smaller software than <mark>SGC</mark>, but manage all the business rules. 
+          I had worked in a project in ruby on rails, hosted at Digital Ocean. It's a smaller software than <mark>SGC</mark>, but manage all the business rules.
+
           There are a web crawling collecting informations about the lines at operator website. As well there are a RESTFULL API to integrate with an APP.
+
           knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>JQuery</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>, <mark>RESTFULL API</mark>, <mark>DigitalOcean Cloud</mark>.
 
       - layout: left
@@ -90,6 +94,7 @@ content:
         caption: February 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
           As a third party, I worked for their client with troubleshooting and software development.
+
           knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>.
 
       - layout: left
@@ -100,6 +105,7 @@ content:
         caption: December 2020 - June 2021
         description: | # this will include new lines to allow paragraphs
           Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The main function is fiscal document emitter.
+
           knowledge used: <mark>Ruby on Rails</mark>, <mark>JavaScript</mark>, <mark>React</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>AWS cloud</mark>.
 
       - layout: left
@@ -110,6 +116,7 @@ content:
         caption: June 2021 - Present
         description: | # this will include new lines to allow paragraphs
           Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The project manage logistic companies for whole process.
+
           knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL<mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
 
   - title: Education # Title for the section
