@@ -117,7 +117,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The project manage logistic companies for whole process.
 
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL<mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
+          knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -126,20 +126,35 @@ content:
         title: State University of Goiás
         caption: 2006 - 2009
         sub_title: Information systems
-        quote: >
+        description: |
           The State University of Goiás (UEG) is a multicampi state public university located in the State of Goiás, Brazil.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Skills and a little more about me
+    layout: list
+    content:
+    - layout: left
+      title: Languages Skills
+      content: | # this will include new lines to allow paragraphs
+        Portuguese: <mark>10/10</mark>
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        English: <mark>8/10</mark>
+
+        Spanish: <mark>5/10</mark>
+
+    - layout: left
+      title: Technical Skills
+      content: | # this will include new lines to allow paragraphs
+        Ruby on Rails: <mark>10/10</mark>
+
+        API and GraphQL: <mark>10/10</mark>
+
+        Git and Github: <mark>10/10</mark>
+
+        SQL Queries and Databases: <mark>10/10</mark>
+
+        HTML, CSS and Javascript: <mark>8/10</mark>
+
+        Infrastructure and devops: <mark>8/10</mark>
 
 # Footer
 footer_show_references: true
