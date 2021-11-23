@@ -132,29 +132,34 @@ content:
   - title: Skills and a little more about me
     layout: list
     content:
-    - layout: left
-      title: Languages Skills
-      content: | # this will include new lines to allow paragraphs
-        Portuguese: <mark>10/10</mark>
+      - layout: left
+        title: Languages Skills
+        description: | # this will include new lines to allow paragraphs
+          Portuguese: <mark>10/10</mark>
 
-        English: <mark>8/10</mark>
+          English: <mark>8/10</mark>
 
-        Spanish: <mark>5/10</mark>
+          Spanish: <mark>5/10</mark>
 
-    - layout: left
-      title: Technical Skills
-      content: | # this will include new lines to allow paragraphs
-        Ruby on Rails: <mark>10/10</mark>
+      - layout: left
+        title: Technical Skills
+        description: | # this will include new lines to allow paragraphs
+          Ruby on Rails: <mark>10/10</mark>
 
-        API and GraphQL: <mark>10/10</mark>
+          API and GraphQL: <mark>10/10</mark>
 
-        Git and Github: <mark>10/10</mark>
+          Git and Github: <mark>10/10</mark>
 
-        SQL Queries and Databases: <mark>10/10</mark>
+          SQL Queries and Databases: <mark>10/10</mark>
 
-        HTML, CSS and Javascript: <mark>8/10</mark>
+          HTML, CSS and Javascript: <mark>8/10</mark>
 
-        Infrastructure and devops: <mark>8/10</mark>
+          Infrastructure and devops: <mark>8/10</mark>
+
+      - layout: left
+        title: Hobbies
+        description: | # this will include new lines to allow paragraphs
+          Play video games, crossfit, play with my daughter, drink beer and eat burger. The secret is the balance!
 
 # Footer
 footer_show_references: true
