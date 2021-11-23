@@ -61,13 +61,6 @@ content:
         title: SGC
         link: https://sgc.accelular.com.br/
         link_text: SGC
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -77,15 +70,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Tempo Telecom
+        link: https://www.tempotelecom.com.br/
+        link_text: tempotelecom.com.br
+        sub_title: IT Manager
+        caption: April 2013 - February 2015
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          cell phone management system
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I led the team rebuilding an old software using ruby on rails, postgres and hosted at AWS. In this moment I was a IT manager and manager project.
+
+            I analised the whole software and distribute the tasks among the devs, looking for the bests solutions. 
+
+      - layout: right
+        title: Tech Telecom
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Cofounder - Software engineer
+        caption: July 2016 - Present
+        quote: >
+          cell phone management system
+        description: | # this will include new lines to allow paragraphs
+          Project in ruby on rails, hosted at Digital Ocean. It's a smaller software than <mark>SGC</mark>, but manage all the business rules. 
+          There are a web crawling collecting informations about the lines at operator website.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
