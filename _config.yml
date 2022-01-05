@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Brunno Henrique de Souza
-title: Senior software engineer
+title: Software engineer
 email: brunnohenrique.ti@gmail.com
 phone: +55 (62) 99951-9395
 
@@ -48,7 +48,7 @@ linkedin_username: brunno-henrique-souza-524b5221
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a senior ruby software engineer. I'm curious, helpful and dedicated to the team, to achieve the common goal.
+  Hi, I'm a ruby software engineer. I'm curious, helpful and dedicated to the team, to achieve the common goal.
 
   In addition to software development knowledge I also able to manage DB, analyse and improve processes, manage linux server, and learn fast.
 
