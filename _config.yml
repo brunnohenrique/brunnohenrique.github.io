@@ -12,7 +12,7 @@ email: brunnohenrique.ti@gmail.com
 phone: +55 (62) 99951-9395
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: Brunn0henrique
@@ -61,17 +61,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Tempo Telecom
-        link: https://www.tempotelecom.com.br/
-        link_text: tempotelecom.com.br
-        sub_title: IT Manager
-        caption: April 2013 - February 2015
+        title: GoCo.io
+        link: goco.io
+        # link_text: boringcompany.com
+        sub_title: Senior Software engineer
+        caption: April 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            I led the team rebuilding an old software using ruby on rails, postgres and hosted at AWS. In this moment I was a IT manager and manager project.
+          It's my first international experience. I'm working in a project in ruby on rails, hosted at Heroku. It's a huge monolith software that manage all the HR process.
 
-            I analised the whole software and distribute the tasks among the devs, looking for the bests solutions.
-
-            knowledge used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>Postgresl</mark>, <mark>Ruby on Rails</mark>.
+          knowledge used: <mark>Ruby on Rails</mark>,  <mark>GraphQL</mark>, <mark>RESTFULL API</mark>, <mark>Postgresql</mark>
 
       - layout: left
         title: Tech Telecom
@@ -87,15 +85,15 @@ content:
           knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>JQuery</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>, <mark>RESTFULL API</mark>, <mark>DigitalOcean Cloud</mark>.
 
       - layout: left
-        title: Codeminer42
-        link: https://www.codeminer42.com
-        link_text: codeminer42.com
+        title: ESL
+        link: https://eslsistemas.com.br/
+        link_text: eslsistemas.com.br
         sub_title: Software engineer
-        caption: February 2020 - November 2020
+        caption: June 2021 - March 2022
         description: | # this will include new lines to allow paragraphs
-          As a third party, I worked for their client with troubleshooting and software development.
+          Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The project manage logistic companies for whole process.
 
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>.
+          knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
 
       - layout: left
         title: ao3
@@ -109,15 +107,28 @@ content:
           knowledge used: <mark>Ruby on Rails</mark>, <mark>JavaScript</mark>, <mark>React</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>AWS cloud</mark>.
 
       - layout: left
-        title: ESL
-        link: https://eslsistemas.com.br/
-        link_text: eslsistemas.com.br
+        title: Codeminer42
+        link: https://www.codeminer42.com
+        link_text: codeminer42.com
         sub_title: Software engineer
-        caption: June 2021 - Present
+        caption: February 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
-          Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The project manage logistic companies for whole process.
+          As a third party, I worked for their client with troubleshooting and software development.
 
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
+          knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>.
+
+      - layout: left
+        title: Tempo Telecom
+        link: https://www.tempotelecom.com.br/
+        link_text: tempotelecom.com.br
+        sub_title: IT Manager
+        caption: April 2013 - February 2015
+        description: | # this will include new lines to allow paragraphs
+            I led the team rebuilding an old software using ruby on rails, postgres and hosted at AWS. In this moment I was a IT manager and manager project.
+
+            I analised the whole software and distribute the tasks among the devs, looking for the bests solutions.
+
+            knowledge used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>Postgresl</mark>, <mark>Ruby on Rails</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
