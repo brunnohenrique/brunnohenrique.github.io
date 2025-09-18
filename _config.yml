@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username: Brunn0henrique
-github_username:  brunnohenrique
+github_username: brunnohenrique
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -48,11 +48,9 @@ linkedin_username: brunno-henrique-souza-524b5221
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a ruby software engineer. I'm curious, helpful and dedicated to the team, to achieve the common goal.
+  Senior Software Engineer with over 7 years of experience in startups and 3 years at GoCo.io, currently at Intuit. Specialized in product development, REST APIs, and MVC architecture. Passionate about delivering scalable solutions and driving innovation. Motivated by new challenges and the positive impact of technology on teams and organizations.
 
-  In addition to software development knowledge I also able to manage DB, analyse and improve processes, manage linux server, and learn fast.
-
-  I am most skilled in: <mark>Ruby on rails</mark> back-end, <mark>Postgres</mark>, <mark>Heroku</mark>, <mark>Linux Server</mark>, <mark>Javascript</mark>, <mark>RESTFULL API</mark> and <mark>GraphQL</mark>.
+  Main skills: <mark>REST APIs</mark>, <mark>Product Development</mark>, <mark>MVC Architecture</mark>, <mark>Ruby on Rails</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>, <mark>Linux Server</mark>, <mark>JavaScript</mark>, <mark>GraphQL</mark>.
 
   Birth date: 13/10/1988
 
@@ -61,82 +59,92 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: GoCo.io
-        link: goco.io
-        # link_text: boringcompany.com
-        sub_title: Senior Software engineer
-        caption: April 2022 - Present
+        title: Intuit
+        sub_title: Senior Software Engineer
+        caption: May 2025 - Present
         description: | # this will include new lines to allow paragraphs
-          It's my first international experience. I'm working in a project in ruby on rails, hosted at Heroku. It's a huge monolith software that manage all the HR process.
+          Senior Software Engineer focused on product development and REST API creation. Responsible for integrating modern technologies and delivering scalable solutions.
 
-          knowledge used: <mark>Ruby on Rails</mark>,  <mark>GraphQL</mark>, <mark>RESTFULL API</mark>, <mark>Postgresql</mark>
+      - layout: left
+        title: GoCo.io, Inc.
+        sub_title: Software Engineer
+        caption: April 2022 - May 2025
+        description: | # this will include new lines to allow paragraphs
+          Worked on a large Ruby on Rails monolith project hosted on Heroku, managing all HR processes. Focused on innovation and scalable solutions.
+
+          Technologies used: <mark>Ruby on Rails</mark>, <mark>GraphQL</mark>, <mark>REST APIs</mark>, <mark>PostgreSQL</mark>
 
       - layout: left
         title: Tech Telecom
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Cofounder - Software engineer
-        caption: July 2016 - March 2024
+        sub_title: Founding Principal
+        caption: July 2016 - May 2024
         description: | # this will include new lines to allow paragraphs
-          I had worked in a project in ruby on rails, hosted at Digital Ocean. It's a smaller software than <mark>SGC</mark>, but manage all the business rules.
+          Startup focused on mobile telephony management through software. Expertise in management, maintenance, and sales of mobile lines and devices. Also acted as requirements analyst and software developer.
 
-          There are a web crawling collecting informations about the lines at operator website. As well there are a RESTFULL API to integrate with an APP.
-
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>JQuery</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>, <mark>RESTFULL API</mark>, <mark>DigitalOcean Cloud</mark>.
+          Technologies used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>JQuery</mark>, <mark>JavaScript</mark>, <mark>HTML/CSS</mark>, <mark>PostgreSQL</mark>, <mark>DigitalOcean Cloud</mark>
 
       - layout: left
-        title: ESL
-        link: https://eslsistemas.com.br/
-        link_text: eslsistemas.com.br
-        sub_title: Software engineer
+        title: ESL Sistemas
+        sub_title: Software Engineer
         caption: June 2021 - March 2022
         description: | # this will include new lines to allow paragraphs
-          Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The project manage logistic companies for whole process.
-
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>vueJS</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>GraphQL</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>.
+          Fullstack developer using Ruby on Rails, VueJs, Docker, and PostgreSQL.
 
       - layout: left
         title: ao3
-        link: https://ao3tech.com/
-        link_text: ao3tech.com
-        sub_title: Software engineer
+        sub_title: Software Engineer
         caption: December 2020 - June 2021
         description: | # this will include new lines to allow paragraphs
-          Software engineer fullstack ruby on rails, responsible for maintenance and implement new features at monolith project. The main function is fiscal document emitter.
+          Fullstack Ruby on Rails developer. Responsible for maintenance and new features in a monolithic project for fiscal document emission (70k active users).
 
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>JavaScript</mark>, <mark>React</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>AWS cloud</mark>.
+          Technologies used: <mark>Ruby on Rails</mark>, <mark>JavaScript</mark>, <mark>React</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>AWS cloud</mark>
 
       - layout: left
-        title: Codeminer42
-        link: https://www.codeminer42.com
-        link_text: codeminer42.com
-        sub_title: Software engineer
+        title: Codeminer
+        sub_title: Software Engineer
         caption: February 2020 - November 2020
         description: | # this will include new lines to allow paragraphs
-          As a third party, I worked for their client with troubleshooting and software development.
+          Outsourced developer, allocated to clients for troubleshooting and software development.
 
-          knowledge used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>Javascript</mark>, <mark>HTML/CSS</mark>, <mark>Postgresql</mark>.
+          Technologies used: <mark>Ruby on Rails</mark>, <mark>SQL</mark>, <mark>Git</mark>, <mark>HTML/CSS</mark>, <mark>JQuery</mark>, <mark>JavaScript</mark>, <mark>Heroku</mark>
 
       - layout: left
         title: Tempo Telecom
-        link: https://www.tempotelecom.com.br/
-        link_text: tempotelecom.com.br
         sub_title: IT Manager
         caption: April 2013 - February 2015
         description: | # this will include new lines to allow paragraphs
-            I led the team rebuilding an old software using ruby on rails, postgres and hosted at AWS. In this moment I was a IT manager and manager project.
+          Led the IT team to rebuild legacy software using Ruby on Rails and PostgreSQL, hosted on AWS. Managed the project and software deployment.
 
-            I analised the whole software and distribute the tasks among the devs, looking for the bests solutions.
+          Technologies used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>PostgreSQL</mark>, <mark>Ruby on Rails</mark>
 
-            knowledge used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>Postgresl</mark>, <mark>Ruby on Rails</mark>.
+      - layout: left
+        title: Apae Anápolis
+        sub_title: Software Manager
+        caption: October 2011 - January 2013
+        description: | # this will include new lines to allow paragraphs
+          Responsible for maintaining and implementing all software used in the organization, including ambulatory management and ERP systems.
+
+      - layout: left
+        title: Apae Anápolis
+        sub_title: IT Support Analyst
+        caption: September 2009 - October 2011
+        description: | # this will include new lines to allow paragraphs
+          Coordinator of IT support, network, software, hardware, and peripherals. Implemented Active Directory and managed network infrastructure.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: IPOG
+        caption: 2013 - 2015
+        sub_title: MBA in IT Governance
+        description: |
+          MBA in IT Governance, focused on technology management and best practices.
+
+      - layout: left
         title: State University of Goiás
-        caption: 2006 - 2009
-        sub_title: Information systems
+        caption: 2009 - 2012
+        sub_title: Bachelor in Information Systems
         description: |
           The State University of Goiás (UEG) is a multicampi state public university located in the State of Goiás, Brazil.
 
@@ -144,33 +152,23 @@ content:
     layout: list
     content:
       - layout: left
-        title: Languages Skills
+        title: Languages
         description: | # this will include new lines to allow paragraphs
-          Portuguese: <mark>10/10</mark>
+          Portuguese: <mark>Native or Bilingual</mark>
 
-          English: <mark>9/10</mark>
+          English: <mark>Native or Bilingual</mark>
 
-          Spanish: <mark>5/10</mark>
+          Spanish: <mark>Professional Working</mark>
 
       - layout: left
         title: Technical Skills
         description: | # this will include new lines to allow paragraphs
-          Ruby on Rails: <mark>10/10</mark>
-
-          API and GraphQL: <mark>10/10</mark>
-
-          Git and Github: <mark>10/10</mark>
-
-          SQL Queries and Databases: <mark>10/10</mark>
-
-          HTML, CSS and Javascript: <mark>8/10</mark>
-
-          Infrastructure and devops: <mark>8/10</mark>
+          REST APIs, Product Development, MVC Architecture, Ruby on Rails, PostgreSQL, Heroku, Linux Server, JavaScript, GraphQL, Git, VueJs, Docker, HTML/CSS, MySQL, AWS Cloud, COBIT, PMBOK
 
       - layout: left
-        title: Hobbies
+        title: Certifications
         description: | # this will include new lines to allow paragraphs
-          Play video games, crossfit, play with my daughter, drink beer and eat burger. The secret is the balance!
+          Scrum Master
 
 # Footer
 footer_show_references: true
@@ -184,4 +182,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
