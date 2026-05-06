@@ -1,13 +1,18 @@
 # Site
-repository: sproogen/resume-theme
+repository: brunnohenrique/brunnohenrique.github.io
 favicon: images/favicon.ico
+url: https://brunnohenrique.github.io
+description: >-
+  Senior Software Engineer with 10+ years of experience building scalable SaaS
+  platforms, REST APIs, and fullstack applications using Ruby on Rails, React,
+  Vue.js, PostgreSQL, and cloud technologies.
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Brunno Henrique de Souza
-title: Software engineer
+title: Senior Software Engineer building scalable products and REST APIs
 email: brunnohenrique.ti@gmail.com
 phone: +55 (62) 99951-9395
 
@@ -17,26 +22,14 @@ darkmode: true
 # Social links
 # twitter_username: Brunn0henrique
 github_username: brunnohenrique
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: brunno-henrique-souza-524b5221
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+# Add a PDF to the repo and point `url` to it for a “View Resume” button in the header.
+additional_links:
+  - title: Resume
+    icon: fas fa-file-pdf
+    url: https://brunnohenrique.github.io/resume.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -45,130 +38,192 @@ linkedin_username: brunno-henrique-souza-524b5221
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Senior Software Engineer with over 7 years of experience in startups and 3 years at GoCo.io, currently at Intuit. Specialized in product development, REST APIs, and MVC architecture. Passionate about delivering scalable solutions and driving innovation. Motivated by new challenges and the positive impact of technology on teams and organizations.
+  Software engineer with **10+ years** of experience across startups, SaaS platforms, and enterprise products. Currently at **Intuit**, with strong expertise in Ruby on Rails, APIs, cloud infrastructure, and fullstack development.
 
-  Main skills: <mark>REST APIs</mark>, <mark>Product Development</mark>, <mark>MVC Architecture</mark>, <mark>Ruby on Rails</mark>, <mark>PostgreSQL</mark>, <mark>Heroku</mark>, <mark>Linux Server</mark>, <mark>JavaScript</mark>, <mark>GraphQL</mark>.
+  Based in Brazil and working with international teams, I focus on building reliable and scalable software that creates real impact for users and businesses.
 
-  Birth date: 13/10/1988
+  I’m a Senior Software Engineer at **Intuit**, contributing to product development and REST API architecture.
+
+  Over the last decade I’ve worked with startups, SaaS platforms, and distributed teams, helping companies design scalable systems, modernize applications, and deliver high-quality software. My background combines hands-on engineering with leadership in technology management and entrepreneurship.
+
+  **Strong experience with:** <mark>Ruby on Rails</mark>, <mark>REST APIs</mark>, <mark>PostgreSQL</mark> & <mark>MySQL</mark>, <mark>JavaScript</mark> / <mark>React</mark> / <mark>Vue.js</mark>, <mark>Cloud</mark> (AWS, DigitalOcean, Heroku), <mark>Docker</mark>, <mark>Git</mark> & Agile workflows, and <mark>fullstack web development</mark>.
+
+  I enjoy solving complex problems, improving developer experience, and building systems that scale.
+
+  **Highlights**
+
+  - Products and platforms serving **thousands of users**
+  - Focus on **API reliability, scalability, and maintainability**
+  - **Distributed, international teams** across time zones
+  - Experience spanning **startup and enterprise** environments
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Intuit
         sub_title: Senior Software Engineer
-        caption: May 2025 - Present
-        description: | # this will include new lines to allow paragraphs
-          Senior Software Engineer focused on product development and REST API creation. Responsible for integrating modern technologies and delivering scalable solutions.
+        caption: May 2025 — Present · Mountain View, California (Remote)
+        quote: QuickBooks Online — cloud accounting and business software powered by
+          Intuit.
+        description: |
+          - Developing scalable product features and REST APIs
+          - Modern software architecture and backend systems
+          - Collaboration with distributed engineering teams
+          - Product reliability and engineering best practices
+          - Strong knowledge of GraphQL
+          - Distributed systems
+          - AI-driven projects
+          - Solid PostgreSQL patterns and deep understanding
+          - Third-party integrations
+          - Driving key engineering initiatives
 
       - layout: left
-        title: GoCo.io, Inc.
+        title: GoCo.io
         sub_title: Software Engineer
-        caption: April 2022 - May 2025
-        description: | # this will include new lines to allow paragraphs
-          Worked on a large Ruby on Rails monolith project hosted on Heroku, managing all HR processes. Focused on innovation and scalable solutions.
-
-          Technologies used: <mark>Ruby on Rails</mark>, <mark>GraphQL</mark>, <mark>REST APIs</mark>, <mark>PostgreSQL</mark>
+        caption: Apr 2022 — May 2025 · Houston, Texas (Remote)
+        quote: HR management software for people operations, payroll, and benefits.
+        description: |
+          - Strong, solid Ruby on Rails API monolith
+          - GraphQL and REST APIs
+          - PostgreSQL
+          - Principal driver for key initiatives
+          - Third-party integrations
 
       - layout: left
         title: Tech Telecom
         sub_title: Founding Principal
-        caption: July 2016 - May 2024
-        description: | # this will include new lines to allow paragraphs
-          Startup focused on mobile telephony management through software. Expertise in management, maintenance, and sales of mobile lines and devices. Also acted as requirements analyst and software developer.
+        caption: Jul 2016 — May 2024 · Brazil
+        quote: Startup focused on mobile phone management through software solutions.
+        description: |
+          - Software architecture and development
+          - Business operations and technical leadership
+          - Telecommunications management
+          - Client support and product evolution
 
-          Technologies used: <mark>Ruby on Rails</mark>, <mark>Git</mark>, <mark>JQuery</mark>, <mark>JavaScript</mark>, <mark>HTML/CSS</mark>, <mark>PostgreSQL</mark>, <mark>DigitalOcean Cloud</mark>
+          Technologies: <mark>Ruby on Rails</mark>, <mark>PostgreSQL</mark>, <mark>JavaScript</mark>, <mark>jQuery</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>DigitalOcean</mark>
 
       - layout: left
         title: ESL Sistemas
         sub_title: Software Engineer
-        caption: June 2021 - March 2022
-        description: | # this will include new lines to allow paragraphs
-          Fullstack developer using Ruby on Rails, VueJs, Docker, and PostgreSQL.
+        caption: Jun 2021 — Mar 2022
+        description: |
+          - Built and maintained product features end to end on a <mark>Ruby on Rails</mark> backend and <mark>Vue.js</mark> SPA
+          - Implemented <mark>GraphQL</mark> in the Rails API for the frontend to query and mutate data
+          - Modeled data and tuned queries in <mark>PostgreSQL</mark> for reliable reads and writes
+          - Used <mark>Docker</mark> for consistent local and deployment environments
+          - Worked across the stack with a focus on clear interfaces between backend and UI
 
       - layout: left
         title: ao3
         sub_title: Software Engineer
-        caption: December 2020 - June 2021
-        description: | # this will include new lines to allow paragraphs
-          Fullstack Ruby on Rails developer. Responsible for maintenance and new features in a monolithic project for fiscal document emission (70k active users).
+        caption: Dec 2020 — Jun 2021
+        description: |
+          Large monolithic platform with **70k+ active users**.
 
-          Technologies used: <mark>Ruby on Rails</mark>, <mark>JavaScript</mark>, <mark>React</mark>, <mark>HTML/CSS</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>AWS cloud</mark>
+          - Maintenance and feature development
+          - Government rule updates
+          - Fullstack Ruby on Rails development
+
+          Technologies: <mark>Ruby on Rails</mark>, <mark>React</mark>, <mark>JavaScript</mark>, <mark>MySQL</mark>, <mark>AWS</mark>
 
       - layout: left
-        title: Codeminer
+        title: Codeminer42
         sub_title: Software Engineer
-        caption: February 2020 - November 2020
-        description: | # this will include new lines to allow paragraphs
-          Outsourced developer, allocated to clients for troubleshooting and software development.
+        caption: Feb 2020 — Nov 2020
+        description: |
+          Outsourced developer allocated to client projects.
 
-          Technologies used: <mark>Ruby on Rails</mark>, <mark>SQL</mark>, <mark>Git</mark>, <mark>HTML/CSS</mark>, <mark>JQuery</mark>, <mark>JavaScript</mark>, <mark>Heroku</mark>
+          Technologies: <mark>Ruby on Rails</mark>, <mark>SQL</mark>, <mark>Git</mark>, <mark>JavaScript</mark>, <mark>HTML/CSS</mark>, <mark>Heroku</mark>
 
       - layout: left
         title: Tempo Telecom
         sub_title: IT Manager
-        caption: April 2013 - February 2015
-        description: | # this will include new lines to allow paragraphs
-          Led the IT team to rebuild legacy software using Ruby on Rails and PostgreSQL, hosted on AWS. Managed the project and software deployment.
-
-          Technologies used: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>PostgreSQL</mark>, <mark>Ruby on Rails</mark>
-
-      - layout: left
-        title: Apae Anápolis
-        sub_title: Software Manager
-        caption: October 2011 - January 2013
-        description: | # this will include new lines to allow paragraphs
-          Responsible for maintaining and implementing all software used in the organization, including ambulatory management and ERP systems.
-
-      - layout: left
-        title: Apae Anápolis
-        sub_title: IT Support Analyst
-        caption: September 2009 - October 2011
-        description: | # this will include new lines to allow paragraphs
-          Coordinator of IT support, network, software, hardware, and peripherals. Implemented Active Directory and managed network infrastructure.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: IPOG
-        caption: 2013 - 2015
-        sub_title: MBA in IT Governance
+        caption: Apr 2013 — Feb 2015
         description: |
-          MBA in IT Governance, focused on technology management and best practices.
+          - Led internal software development initiatives
+          - Managed software implementation projects
+          - Coordinated technology strategy and systems deployment
 
-      - layout: left
-        title: State University of Goiás
-        caption: 2009 - 2012
-        sub_title: Bachelor in Information Systems
-        description: |
-          The State University of Goiás (UEG) is a multicampi state public university located in the State of Goiás, Brazil.
+          Technologies: <mark>COBIT</mark>, <mark>PMBOK</mark>, <mark>PostgreSQL</mark>, <mark>Ruby on Rails</mark>
 
-  - title: Skills and a little more about me
+  - title: Featured Projects
     layout: list
     content:
       - layout: left
+        title: SaaS, payroll & HR platforms
+        quote: High-scale product surfaces and integrations
+        description: |
+          - **Focus:** Reliable backends, business rules, and integrations for complex domains
+          - **Stack:** Ruby on Rails, PostgreSQL, REST APIs, cloud (AWS, Heroku, DigitalOcean)
+          - **Architecture:** API-first design, pragmatic monoliths, scalable service boundaries where it matters
+          - **Impact:** Platforms supporting many thousands of users; emphasis on API quality and operational stability
+
+      - layout: left
+        title: REST APIs & enterprise-style delivery
+        quote: From startups to large engineering orgs
+        description: |
+          - **Focus:** End-to-end feature delivery, modernization, and maintainability
+          - **Practices:** Agile/Scrum, code review, observability-minded changes, collaboration across time zones
+          - **Outcome:** Systems that are easier to evolve and safer to ship
+
+  - title: Tech Stack
+    layout: text
+    content: |
+      **Ruby on Rails** · **React** · **Vue.js** · **PostgreSQL** · **Docker** · **AWS** · **REST APIs** · **GitHub Actions**
+
+  - title: Certifications
+    layout: text
+    content: |
+      - **Scrum Master**
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Universidade Estadual de Goiás
+        caption: 2009 — 2012
+        sub_title: Bachelor’s Degree in Information Systems
+
+      - layout: left
+        title: IPOG
+        caption: 2013 — 2015
+        sub_title: MBA in IT Governance
+
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Backend
+        description: |
+          <mark>Ruby on Rails</mark>, <mark>REST APIs</mark>, <mark>PostgreSQL</mark>, <mark>MySQL</mark>, <mark>MVC architecture</mark>
+
+      - layout: left
+        title: Frontend
+        description: |
+          <mark>JavaScript</mark>, <mark>React</mark>, <mark>Vue.js</mark>, <mark>HTML5</mark>, <mark>CSS3</mark>
+
+      - layout: left
+        title: DevOps & Cloud
+        description: |
+          <mark>Docker</mark>, <mark>AWS</mark>, <mark>DigitalOcean</mark>, <mark>Heroku</mark>, <mark>Git</mark>
+
+      - layout: left
+        title: Methodologies
+        description: |
+          <mark>Agile</mark>, <mark>Scrum</mark>, <mark>software architecture</mark>, <mark>product engineering</mark>
+
+      - layout: left
         title: Languages
-        description: | # this will include new lines to allow paragraphs
-          Portuguese: <mark>Native or Bilingual</mark>
+        description: |
+          Portuguese: <mark>Native or bilingual</mark>
 
-          English: <mark>Native or Bilingual</mark>
+          English: <mark>Native or bilingual</mark>
 
-          Spanish: <mark>Professional Working</mark>
-
-      - layout: left
-        title: Technical Skills
-        description: | # this will include new lines to allow paragraphs
-          REST APIs, Product Development, MVC Architecture, Ruby on Rails, PostgreSQL, Heroku, Linux Server, JavaScript, GraphQL, Git, VueJs, Docker, HTML/CSS, MySQL, AWS Cloud, COBIT, PMBOK
-
-      - layout: left
-        title: Certifications
-        description: | # this will include new lines to allow paragraphs
-          Scrum Master
+          Spanish: <mark>Professional working</mark>
 
 # Footer
 footer_show_references: true
