@@ -22,14 +22,13 @@ darkmode: true
 # Social links
 # twitter_username: Brunn0henrique
 github_username: brunnohenrique
-linkedin_username: brunno-henrique-souza-524b5221
+linkedin_username: brunno-souza-524b5221
 
-# Additional icon links
-# Add a PDF to the repo and point `url` to it for a “View Resume” button in the header.
+# Resume PDF: assets/resume.pdf (commit + push after replacing with your real CV).
 additional_links:
   - title: Resume
     icon: fas fa-file-pdf
-    url: https://brunnohenrique.github.io/resume.pdf
+    url: https://brunnohenrique.github.io/assets/resume.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
