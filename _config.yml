@@ -84,7 +84,7 @@ content:
       - layout: left
         title: Tech Telecom
         sub_title: Founding Principal
-        caption: Jul 2016 — May 2024 · Brazil
+        caption: Jul 2016 — May 2024 · Goiás, Brazil (hybrid)
         quote: Startup focused on mobile phone management through software solutions.
         description: |
           - Software architecture and development
@@ -97,7 +97,7 @@ content:
       - layout: left
         title: ESL Sistemas
         sub_title: Software Engineer
-        caption: Jun 2021 — Mar 2022
+        caption: Jun 2021 — Mar 2022 · São Paulo, Brazil (remote)
         quote: Brazilian software company focused on transportation and logistics (TMS) — fleet, freight, and operations in the cloud.
         description: |
           - Built and maintained product features end to end on a <mark>Ruby on Rails</mark> backend and <mark>Vue.js</mark> SPA
@@ -109,7 +109,7 @@ content:
       - layout: left
         title: ao3
         sub_title: Software Engineer
-        caption: Dec 2020 — Jun 2021
+        caption: Dec 2020 — Jun 2021 · São Paulo, Brazil (remote)
         quote: Platform for Brazilian electronic fiscal documents (NF-e) and ongoing compliance with tax authority rules.
         description: |
           Large monolithic platform with **70k+ active users**.
@@ -123,7 +123,7 @@ content:
       - layout: left
         title: Codeminer42
         sub_title: Software Engineer
-        caption: Feb 2020 — Nov 2020
+        caption: Feb 2020 — Nov 2020 · Goiás, Brazil (on-site)
         quote: Brazilian software consultancy — engineers embedded with client teams to ship and maintain production systems.
         description: |
           Outsourced developer allocated to client projects.
@@ -133,7 +133,7 @@ content:
       - layout: left
         title: Tempo Telecom
         sub_title: IT Manager
-        caption: Apr 2013 — Feb 2015
+        caption: Apr 2013 — Feb 2015 · Goiás, Brazil (on-site)
         quote: Telecommunications company — internal IT, software delivery, and rollout of business systems.
         description: |
           - Led internal software development initiatives
