@@ -40,24 +40,13 @@ additional_links:
 # About Section
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer with **10+ years** of experience across startups, SaaS platforms, and enterprise products. Currently at **Intuit**, with strong expertise in Ruby on Rails, APIs, cloud infrastructure, and fullstack development.
+  **Senior Software Engineer** at **Intuit** with **10+ years** in the industry. Based in **Brazil**, I collaborate with **distributed teams** worldwide on product development and **REST API** architecture—shipping reliable software that matters to users and the business.
 
-  Based in Brazil and working with international teams, I focus on building reliable and scalable software that creates real impact for users and businesses.
-
-  I’m a Senior Software Engineer at **Intuit**, contributing to product development and REST API architecture.
-
-  Over the last decade I’ve worked with startups, SaaS platforms, and distributed teams, helping companies design scalable systems, modernize applications, and deliver high-quality software. My background combines hands-on engineering with leadership in technology management and entrepreneurship.
+  My career spans **startups, SaaS, and enterprise**, where I’ve helped design and evolve systems, modernize applications, and raise engineering quality. I combine deep hands-on work with experience in technology leadership and entrepreneurship.
 
   **Strong experience with:** <mark>Ruby on Rails</mark>, <mark>REST APIs</mark>, <mark>PostgreSQL</mark> & <mark>MySQL</mark>, <mark>JavaScript</mark> / <mark>React</mark> / <mark>Vue.js</mark>, <mark>Cloud</mark> (AWS, DigitalOcean, Heroku), <mark>Docker</mark>, <mark>Git</mark> & Agile workflows, and <mark>fullstack web development</mark>.
 
-  I enjoy solving complex problems, improving developer experience, and building systems that scale.
-
-  **Highlights**
-
-  - Products and platforms serving **thousands of users**
-  - Focus on **API reliability, scalability, and maintainability**
-  - **Distributed, international teams** across time zones
-  - Experience spanning **startup and enterprise** environments
+  I enjoy complex technical problems, improving developer experience, and clear, maintainable architecture.
 
 content:
   - title: Experience
@@ -67,8 +56,7 @@ content:
         title: Intuit
         sub_title: Senior Software Engineer
         caption: May 2025 — Present · Mountain View, California (Remote)
-        quote: QuickBooks Online — cloud accounting and business software powered by
-          Intuit.
+        quote: QuickBooks Online — cloud accounting and business software powered by Intuit.
         description: |
           - Developing scalable product features and REST APIs
           - Modern software architecture and backend systems
@@ -110,6 +98,7 @@ content:
         title: ESL Sistemas
         sub_title: Software Engineer
         caption: Jun 2021 — Mar 2022
+        quote: Brazilian software company focused on transportation and logistics (TMS) — fleet, freight, and operations in the cloud.
         description: |
           - Built and maintained product features end to end on a <mark>Ruby on Rails</mark> backend and <mark>Vue.js</mark> SPA
           - Implemented <mark>GraphQL</mark> in the Rails API for the frontend to query and mutate data
@@ -121,6 +110,7 @@ content:
         title: ao3
         sub_title: Software Engineer
         caption: Dec 2020 — Jun 2021
+        quote: Platform for Brazilian electronic fiscal documents (NF-e) and ongoing compliance with tax authority rules.
         description: |
           Large monolithic platform with **70k+ active users**.
 
@@ -134,6 +124,7 @@ content:
         title: Codeminer42
         sub_title: Software Engineer
         caption: Feb 2020 — Nov 2020
+        quote: Brazilian software consultancy — engineers embedded with client teams to ship and maintain production systems.
         description: |
           Outsourced developer allocated to client projects.
 
@@ -143,6 +134,7 @@ content:
         title: Tempo Telecom
         sub_title: IT Manager
         caption: Apr 2013 — Feb 2015
+        quote: Telecommunications company — internal IT, software delivery, and rollout of business systems.
         description: |
           - Led internal software development initiatives
           - Managed software implementation projects
